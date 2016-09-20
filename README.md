@@ -1,2 +1,2 @@
+project exercise 
 # exercise-repo
-exercise project
