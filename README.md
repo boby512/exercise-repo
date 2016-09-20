@@ -1,2 +1,2 @@
-project exercise 
-# exercise-repo
+gitbash-repo
+exercise 1241 bashgit
